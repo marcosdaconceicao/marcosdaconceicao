@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcosdaconceicao
 - 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning about linux an R
+- 🌱 I’m currently learning about linux and R
 - 💞️ I’m looking to collaborate on research about endogenous retroviruses
 - 📫 You contact me with my email marcosbio2016@outlook.com
 - 😄 Pronouns: ...
